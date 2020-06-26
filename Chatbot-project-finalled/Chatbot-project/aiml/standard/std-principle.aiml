@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+<meta name="author" content="Jon Baer"/>
+<meta name="language" content="en"/>
+<category>
+<pattern>R V COLLEGE PRINCIPLE</pattern>
+<template>K S SUBRAMANYAM.</template>
+</category>
+
+
+<category>
+<pattern>* PRINCIPLE *</pattern>
+<template>K S SUBRAMANYAM</template>
+</category>
+
+
+<category>
+<pattern>PRINCIPLE *</pattern>
+<template>K S SUBRAMANYAM</template>
+</category>
+
+<category>
+<pattern>* PRINCIPLE</pattern>
+<template>K S SUBRAMANYAM</template>
+</category>
+
+
+<category>
+<pattern>WHAT IS PRINCIPLE NAME</pattern>
+<template>
+<random>
+<li>K S SUBRAMANYA</li>
+<li>principle name is K S SUBRAMANYAM</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>R V PRINCIPLE?</pattern>
+<template>K S SUBRAMANYAM</template>
+</category>
+<category>
+<pattern>R V COLLEGE PRINCIPLE?</pattern>
+<template>K S SUBRAMANYAM </template>
+</category>
+<category>
+<pattern>COLLEGE principle?</pattern>
+<template>K S SUBRAMANYAM,PRINCIPLE OF R V COLLEGE</template>
+</category>
+
+<category>
+<pattern>principle name</pattern>
+<template>K S SUBRAMANYAM</template>
+</category>
+
+
+</aiml>
+
+
+
